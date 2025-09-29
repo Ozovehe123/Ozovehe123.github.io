@@ -1,0 +1,23 @@
+body {
+  background-size: contain;
+  background-color: wheat;
+}
+.signinbox {
+  padding: 50px;
+  background-color: rgb(73, 131, 131);
+  border-radius: 40px;
+  border-left: 100px;
+  padding-left: 50px;
+}
+form {
+  text-align: justify;
+}
+input {
+  text-align: center;
+  border: 0px;
+  transition: none;
+  background-color: transparent;
+}
+button {
+  border-radius: 20px;
+}
